@@ -3,7 +3,7 @@
 [![author](https://img.shields.io/badge/Autor-Marcos%20Vin%C3%ADcius-red.svg)](https://www.linkedin.com/in/marcosmvgs/) [![](https://img.shields.io/badge/Blog-Produ%C3%A7%C3%A3o%20Python-orange.svg)](https://www.producaopython.com/) [![](https://img.shields.io/badge/Blog-Medium-lightgrey.svg)](https://medium.com/@13080marcos.tupa)
 
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/vector-illustration-honk-kong-by-night-vector-illustration_596401-280.jpg?w=1380" alt="imagem maneira relacionada ao projeto"height=400px >
+  <img src="https://raw.githubusercontent.com/marcosmvgs/Airbnb-em-Hong-Kong/main/hongkong6%20%5BConvertido%5D.png" alt="imagem maneira relacionada ao projeto"height=400px >
 </p>
 
 ## A cidade mais visitada do mundo!!
